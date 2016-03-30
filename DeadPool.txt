@@ -6,7 +6,7 @@
 //# DEADPOOL script
 //# Version 0.5C
 //# 
-//#    ¡¡¡ SPECIAL THANKS FOR !!!
+//#    Â¡Â¡Â¡ SPECIAL THANKS FOR !!!
 //#  	      Batman & Lennin
 //# Players of SuperFighters Deluxe Game
 //#  And for the Ideas of DeadPool Mode
@@ -15,13 +15,13 @@
 //# <== IF THiS SERVED FOR YOU, DON'T FORGET NOT TO MENTION AND THANKS GOOD MAN ! :) ==>
 //# < = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = |>
 /*# <=================================================================>*/public sealed class User_Settings:Settings{public User_Settings(){
-//# <================ © 2016 By FV of XHomie =========================>
+//# <================ Â© 2016 By FV of XHomie =========================>
 //# <=================================================================>
 //# <=================================================================>
 //# <============< Setting for You Like, you can Change >=============>
 
 /*<=======< DEADPOOL PLAYERS SETTINGS >============>*/
-	All_Player_Transform_to_DeadPool = 1		;// #If All Player transform in Deadpools
+	All_Player_Transform_to_DeadPool = 0		;// #If All Player transform in Deadpools
 /*<================================================>*/
 
 /*<=======< DEADPOOL REGENERATE SETTINGS >=========>*/
